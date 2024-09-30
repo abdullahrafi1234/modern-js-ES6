@@ -11,3 +11,4 @@ arrowFunction()
 const name = 'rafi'
 
 
+const name2 = 'rafi'
