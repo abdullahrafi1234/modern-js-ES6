@@ -5,8 +5,9 @@ const arrowFunction = () => {
     return
 }
 
-let number = [1, 3, 5]
+const number = [1, 3, 5]
 arrowFunction()
 
+const name = 'rafi'
 
 
