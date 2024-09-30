@@ -1,17 +1,13 @@
-// Arrow Function 
+// Arrow Function
 
 const arrowFunction = () => {
-    console.log('Hi i am js ')
-    return
-}
+  console.log("Hi i am js ");
+  return;
+};
 
-const number = [1, 3, 5]
-arrowFunction()
+const number = [1, 3, 5];
+arrowFunction();
 
+// Arrow function relate
 
-// Arrow function relate 
-
-
-
-
-
+const number2 = "Another number";
