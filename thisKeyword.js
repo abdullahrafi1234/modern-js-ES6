@@ -1,4 +1,4 @@
-// Javascript this keyword ----> 
+//JavaScript 'this' keyword and - .call(), .apply() and .bind()  --->
 
 // implicit binding
 // explicit binding
