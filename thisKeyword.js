@@ -12,4 +12,4 @@ var printPlayerName = function(name){
 }
 
 
-printPlayerName('Shakib')
+printPlayerName('Sakib')
