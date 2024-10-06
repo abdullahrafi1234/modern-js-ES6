@@ -14,6 +14,7 @@
 
 var printPlayerName = function(name){
 	console.log(name)
+	console.log(window)
 }
 
 
