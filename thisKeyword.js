@@ -1,7 +1,6 @@
 //JavaScript 'this' keyword and - .call(), .apply() and .bind()  --->
 
 
-
 // implicit binding   (dot notation diye korte hoy)
 // explicit binding   (nije theke bole deoa hoy)
 // new binding
