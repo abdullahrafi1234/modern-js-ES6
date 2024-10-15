@@ -5,6 +5,10 @@ const arrowFunction = () => {
   return;
 };
 
+const newFunction = () => {
+  console.log("Hi this is new function");
+};
+
 const number1 = [1, 3, 5];
 arrowFunction();
 
