@@ -5,7 +5,7 @@ const arrowFunction = () => {
   return;
 };
 
-const number = [1, 3, 5];
+const number1 = [1, 3, 5];
 arrowFunction();
 
 // Arrow function relate
