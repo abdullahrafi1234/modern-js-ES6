@@ -14,4 +14,4 @@ arrowFunction();
 
 // Arrow function relate
 
-const number2 = "Another number";
+// const number2 = "Another number";
