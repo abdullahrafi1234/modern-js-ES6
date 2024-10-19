@@ -16,3 +16,4 @@ arrowFunction();
 
 // const number2 = "Another number";
 // const number2 = "Another number";
+// const number2 = "Another number";
